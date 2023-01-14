@@ -2,13 +2,11 @@
 
 # Description
 
-This is my first project at Skill Distillery
+This is my first project at Skill Distillery. 
 
 # Technologies Used
 
-Java 1.8, Eclipse
+Java, Eclipse
 
 # Lessons Learned
 
-A lot# MakeChangeProject
-# MakeChangeProject
